@@ -1,0 +1,22 @@
+{
+  "name": "crud-express",
+  "version": "0.0.1",
+  "description": "CRUD sample using express js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "express",
+    "js"
+  ],
+  "author": "Ananth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
